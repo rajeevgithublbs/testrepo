@@ -1,2 +1,4 @@
-requests
-azure-functions
+Django==3.0.5
+djangorestframework
+jsonschema==2.6.0
+django-cors-headers==3.2.1
